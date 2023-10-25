@@ -11,7 +11,7 @@ Feature vectors provided by pre-trained deep artificial neural networks have bec
  ![KimiaNet features used for image search showed high accuracy for TCGA test WSIs](image-1.png)
  - KimiaNet features used for image search showed high accuracy for TCGA test WSIs
  - [See image source on Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/kimia-net/)
- 
+
 ### Useful Links
 - [KimiaNet - Paper, pre-print on arXiv](https://arxiv.org/abs/2101.07903)
 - [KimiaNet - Published in "Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841521000785)
