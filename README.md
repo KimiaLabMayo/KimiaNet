@@ -4,11 +4,11 @@ Feature vectors provided by pre-trained deep artificial neural networks have bec
  pixels acquired at 20
  magnification through our proposed “high-cellularity mosaic” approach to enable the usage of weak labels of 7126 whole slide images of formalin-fixed paraffin-embedded human pathology samples publicly available through The Cancer Genome Atlas (TCGA) repository. We tested KimiaNet using three public datasets, namely TCGA, endometrial cancer images, and colorectal cancer images by evaluating the performance of search and classification when corresponding features of different networks are used for image representation. As well, we designed and trained multiple convolutional batch-normalized ReLU (CBR) networks. The results show that KimiaNet provides superior results compared to the original DenseNet and smaller CBR networks when used as feature extractor to represent histopathology images.
 
- ![KimiaNet has been trained with cellularity mosaics extracted from TCGA WSIs](image.png)
+ [![KimiaNet has been trained with cellularity mosaics extracted from TCGA WSIs](image.png)](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/kimia-net/)
  - KimiaNet has been trained with cellularity mosaics extracted from TCGA WSIs
  - See image source on [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/kimia-net/)
 
- ![KimiaNet features used for image search showed high accuracy for TCGA test WSIs](image-1.png)
+ [![KimiaNet features used for image search showed high accuracy for TCGA test WSIs](image-1.png)](https://arxiv.org/pdf/2101.07903.pdf)
  - KimiaNet features used for image search showed high accuracy for TCGA test WSIs
  - See image source on [Kimia Lab](https://kimialab.uwaterloo.ca/kimia/index.php/data-and-code-2/kimia-net/) and in the paper: [Fine-Tuning and Training of DenseNet for Histopathology Image Representation Using TCGA Diagnostic Slides](https://arxiv.org/pdf/2101.07903.pdf), figure 7 and table III.
 
